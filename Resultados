@@ -1,0 +1,26 @@
+Descrição do Projeto:
+Previsão de Estoque Inteligente na AWS com SageMaker Canvas
+Este projeto tem como objetivo utilizar o Amazon SageMaker Canvas para desenvolver um modelo de Machine Learning capaz de prever a quantidade de estoque futuro de produtos. A previsão de estoque é crucial para otimizar a gestão de inventário, reduzir custos e melhorar a eficiência operacional das empresas.
+
+Objetivos:
+
+- Importar e preparar dados de inventário**: Carregar e visualizar datasets contendo informações históricas de estoque e vendas.
+- Construir e treinar um modelo de ML: Utilizar o SageMaker Canvas para configurar, treinar e ajustar um modelo preditivo sem necessidade de código.
+- Analisar desempenho do modelo: Examinar as métricas de performance, ajustar parâmetros e melhorar a acurácia das previsões.
+- Gerar previsões de estoque: Aplicar o modelo treinado para prever quantidades de estoque futuras e analisar os resultados obtidos.
+
+Tecnologias Utilizadas:
+
+- Amazon SageMaker Canvas: Ferramenta no-code da AWS para construção e treinamento de modelos de Machine Learning.
+- AWS S3: Armazenamento de dados utilizados para o treinamento do modelo.
+- Datasets de Inventário: Dados históricos de estoque e vendas para treinar e testar o modelo.
+
+Resultados Esperados:
+
+- Melhoria na precisão das previsões de estoque.
+- Redução de custos associados ao excesso ou falta de estoque.
+- Aumento da eficiência operacional através de uma gestão de inventário mais informada e baseada em dados.
+
+Conclusão:
+
+-Este projeto demonstra como o uso de ferramentas no-code como o SageMaker Canvas pode simplificar o desenvolvimento de modelos de Machine Learning, tornando acessível a implementação de soluções avançadas de previsão de estoque, mesmo para aqueles com pouca ou nenhuma experiência em programação.
